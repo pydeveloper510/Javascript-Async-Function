@@ -1,2 +1,2 @@
-# javascript-async-function
+# Javascript-async-function
 Created with CodeSandbox
